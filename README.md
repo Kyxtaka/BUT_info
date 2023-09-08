@@ -12,5 +12,5 @@ Test liste numéroté
 2. eau
 3. glace
 4. climatisation mobile
-      
 
+``print("salut")``
