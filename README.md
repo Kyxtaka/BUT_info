@@ -3,7 +3,7 @@
 ## 1ER **repository** de *BUT_Info_2033*
 
 ### Test
-- test item 1
+- test item 1 vs code
 - test item 2
     - test sous item 1
     - test sous item 2
